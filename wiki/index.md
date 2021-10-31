@@ -14,6 +14,7 @@
 - Falcon Heavy
 - Dragon
 - Starship
+- Ariana
 
 Повторное использование
 
